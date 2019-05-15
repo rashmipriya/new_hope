@@ -3,3 +3,4 @@ Hi, this is a github course.
 This is a lab practise.
 It is a bright sunny day.
 It is May.
+Changes made after staging.
