@@ -4,3 +4,6 @@ This is a lab practise.
 It is a bright sunny day.
 It is May.
 Changes made after staging.
+Hello!
+Nice to meet you.
+I am an intern.
